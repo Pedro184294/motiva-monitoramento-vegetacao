@@ -211,11 +211,13 @@ A solução proposta pode ser representada pelo seguinte fluxo:
               ▼
         Ocorrência
          resolvida
+```
 
 ### Arquitetura do protótipo desenvolvido
 
 Nesta etapa do projeto, a aplicação web funciona como uma simulação da central de monitoramento.
 
+```text
 React
   │
   ├── Dashboard
@@ -229,6 +231,7 @@ React
   └── Ocorrências
           │
           └── localStorage
+```
 
 A arquitetura foi mantida simples para permitir a demonstração do fluxo principal da solução.
 
@@ -377,6 +380,7 @@ Implementação do armazenamento das ocorrências utilizando localStorage.
 
 Testes do fluxo completo:
 
+```text
 Medição
    ↓
 Classificação
@@ -388,6 +392,7 @@ Ocorrência
 Manutenção
    ↓
 Resolução
+```
 
 ### 🚀 Como executar o projeto
 
@@ -423,6 +428,7 @@ http://localhost:5173/
 
 ### 📁 Estrutura do projeto
 
+```text
 motiva-monitoramento/
 │
 ├── public/
@@ -438,6 +444,7 @@ motiva-monitoramento/
 ├── package-lock.json
 ├── vite.config.js
 └── README.md
+```
 
 ### 🎥 Vídeo de apresentação
 
