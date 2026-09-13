@@ -452,7 +452,7 @@ Link do vídeo:
 
 https://youtu.be/bg12YApeQoE
 
-###👥 Integrantes
+### 👥 Integrantes
 
 Integrantes do grupo:
 
