@@ -160,7 +160,7 @@ Dessa forma, as informações permanecem disponíveis mesmo após atualizar ou r
 
 ---
 
-# 🏗️ Arquitetura da solução
+### 🏗️ Arquitetura da solução
 
 A solução proposta pode ser representada pelo seguinte fluxo:
 
