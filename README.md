@@ -165,6 +165,7 @@ Dessa forma, as informações permanecem disponíveis mesmo após atualizar ou r
 A solução proposta pode ser representada pelo seguinte fluxo:
 
 '''text
+
 ┌─────────────────────────┐
 │ Sensores de vegetação   │
 │ instalados nas rodovias │
